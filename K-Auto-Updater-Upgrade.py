@@ -57,7 +57,7 @@ try:
 		print('')
 		reb=raw_input('Would you like to reboot [y/n]:')
 		re=reb.lower()
-		if re is 'y':
+		if re == 'y':
 			print('[*] System about to reboot')
 			time.sleep(3)
 			os.system('reboot')
