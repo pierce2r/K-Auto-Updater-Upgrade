@@ -1,6 +1,6 @@
 # K-Auto-Updater-Upgrade
 
-Do you have problems with your kali-linux lates version?
+Do you have problems with your kali-linux latest version?
 run this program to fix all issues including full-screen issues
 
 command: git clone https://github.com/pierce2r/K-Auto-Updater-Upgrade.git
